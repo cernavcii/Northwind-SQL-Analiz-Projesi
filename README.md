@@ -47,9 +47,9 @@ Aşağıda Excel dosyasındaki grafiklerin ekran görüntülerine yer verilmişt
 1997’de zirveye çıkan satışlar 1998’de kısmen düşse de, 1996’ya kıyasla uzun vadede artış göstermiştir.
 
 ### 2. Kategori Bazında Satış Analizi
-![Kategori Bazında Satış](images/kategori_bazinda satis_analizi.png)
+![Kategori Bazında Satış](images/kategori_bazinda_satis_analizi.png)
 
-En yüksek payı içecekler (%21) ve süt ürünleri (%19) alarak toplam satışların yaklaşık %40’ını oluşturmuştur.
+Satışların %40’ı Beverages ve Dairy Products kategorilerinden geliyor, bu iki kategori kritik öneme sahip. Diğer kategoriler daha küçük paylara dağılmış, büyüme potansiyeli içeriyor.
 
 ### 3. Bölgesel Satış Analizi
 ![Bölgesel Satış Analizi](images/bolgesel_satis_analizi.png)
