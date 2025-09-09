@@ -1,4 +1,4 @@
-# Northwind-SQL-Analiz-Projesi
+# 📊 Northwind-SQL-Analiz-Projesi
 Bu proje, **Northwind veritabanı** üzerinde veri keşfi (EDA) ve analitik raporlama çalışmaları içermektedir.  
 Amaç, SQL sorguları kullanarak iş senaryolarını analiz etmek ve görselleştirmeler ile desteklenen içgörüler üretmektir.  
 
